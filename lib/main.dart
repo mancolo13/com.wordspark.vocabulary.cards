@@ -15,7 +15,7 @@ class WordSparkApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'WordSpark',
+      title: 'Win',
       theme: AppTheme.darkTheme,
       debugShowCheckedModeBanner: false,
       home: const SplashScreen(),
